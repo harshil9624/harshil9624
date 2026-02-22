@@ -33,9 +33,7 @@
 
 🗄️ Database:
 • MySQL
-## 📊 GitHub Activity
-
-🎓 Leadership & Academic Background
+##🎓 Leadership & Academic Background
 
 🔹 Core Team Member – Techno Community, [SSASIT](https://ssasit.ac.in/) <br/>
 🔹 Volunteer – Google Developer Group (GDG)  <br/>
