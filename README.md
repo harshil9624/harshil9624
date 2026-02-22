@@ -1,34 +1,56 @@
-# Harshil Vala
-### Mobile Application Developer (Android & React Native)
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=200&section=header&text=Harshil%20Vala&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Harshil Vala</h1>
+<h3 align="center">📱 Mobile App Developer | React Native & Expo Expert | AI-Driven Mobile Apps</h3>
 
 ---
 
-## Professional Summary
-Detail-oriented Mobile Application Developer with hands-on experience in Android (Java & Kotlin) and React Native. Skilled in designing, developing, and maintaining high-performance mobile applications with a strong focus on scalability, clean architecture, and continuous learning of modern technologies.
+## 🚀 About Me
+
+🔹 React Native & React Frontend Developer focused on building scalable and high-performance applications
+🔹 Experienced in React Native (Expo & CLI) and modern React.js development
+🔹 Strong understanding of component-based architecture, state management, and clean code principles
+🔹 Passionate about learning new technologies and continuously refining development skills
 
 ---
 
-## Technical Skills
+🔧 Tech Stack & Expertise
 
-**Languages:** Java, Kotlin, JavaScript  
-**Mobile Development:** Android SDK, React Native  
-**Frameworks & Libraries:** Jetpack, Redux  
-**Architecture:** MVVM  
-**Networking:** Retrofit, REST API Integration  
-**Database:** Room, SQLite  
-**Web Basics:** HTML, CSS  
-**Tools:** Git, GitHub, Android Studio, VS Code, Postman  
+💻 Languages:
+• Javascript • TypeScript • Java 
+
+🎨 Frontend Development:
+• React.js • React Native (Expo & CLI)
+
+☁️ Cloud:
+• Google Cloud
+
+📊 Analytics & Monitoring:
+• Mixpanel • Sentry
+
+🗄️ Database:
+• MySQL
+## 📊 GitHub Activity
+
+🎓 Leadership & Academic Background
+
+🔹 Core Team Member – Techno Community, [SSASIT](https://ssasit.ac.in/)
+🔹 Volunteer – Google Developer Group (GDG) 
+🔹 Organized the MathBrain Competition at Vaividya 2K24, [SSASIT](https://ssasit.ac.in/)
+🔹 Bachelor of Engineering (B.E.) in Computer Engineering – [SSASIT](https://ssasit.ac.in/)
+
+
+
+## 🌐 Connect With Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/harshil-vala-171686229/)  
+💼 [Upwork](https://www.upwork.com/freelancers/~0146b2aec110fad1c7)  
 
 ---
 
-## Key Projects
-- Beach Safety Monitoring Application (INCOIS API Integration)
-- SMS-Based Emergency Safety App
-- User Authentication & Todo Management App (React Native)
-
----
-
-## Contact
-🔗 [LinkedIn](https://www.linkedin.com/in/harshil-vala-171686229/)
-💼 [Upwork](https://www.upwork.com/freelancers/~0146b2aec110fad1c7)
-📧 harshilvala8141@gmail.com
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=120&section=footer"/>
+</p>
