@@ -37,7 +37,7 @@
 
 🎓 Leadership & Academic Background
 
-🔹 Core Team Member – Techno Community, [SSASIT](https://ssasit.ac.in/)
+🔹 Core Team Member – Techno Community, [SSASIT](https://ssasit.ac.in/) <br/>
 🔹 Volunteer – Google Developer Group (GDG) 
 🔹 Organized the MathBrain Competition at Vaividya 2K24, [SSASIT](https://ssasit.ac.in/)
 🔹 Bachelor of Engineering (B.E.) in Computer Engineering – [SSASIT](https://ssasit.ac.in/)
