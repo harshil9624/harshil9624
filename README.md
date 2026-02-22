@@ -36,7 +36,7 @@
 
 <br/>
 
-🎓 Leadership & Academic Background
+## 🎓 Leadership & Academic Background
 
 🔹 Core Team Member – Techno Community, [SSASIT](https://ssasit.ac.in/) <br/>
 
