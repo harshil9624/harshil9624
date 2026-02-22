@@ -29,5 +29,6 @@ Detail-oriented Mobile Application Developer with hands-on experience in Android
 ---
 
 ## Contact
-LinkedIn: https://linkedin.com/in/YOUR_LINK  
-Email: yourmail@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/harshil-vala-171686229/)
+💼 [Upwork](https://www.upwork.com/freelancers/~0146b2aec110fad1c7)
+📧 harshilvala8141@gmail.com
