@@ -33,7 +33,9 @@
 
 🗄️ Database:
 • MySQL
-##🎓 Leadership & Academic Background
+
+<br/>
+🎓 Leadership & Academic Background
 
 🔹 Core Team Member – Techno Community, [SSASIT](https://ssasit.ac.in/) <br/>
 🔹 Volunteer – Google Developer Group (GDG)  <br/>
