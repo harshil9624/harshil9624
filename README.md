@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Harshil Vala</h1>
+<h3 align="center">Android Developer | Java • Kotlin • MVVM</h3>
 
-<!--
-**harshil9624/harshil9624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ⚡ About Me
+Building high-performance Android applications with clean architecture and scalable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Tech
+🟢 Java  
+🟢 Kotlin  
+🟢 Android SDK  
+🟢 Retrofit  
+🟢 Firebase  
+🟢 Room  
+🟢 Git  
+
+---
+
+## 📈 GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+---
+
+## 📩 Reach Me
+LinkedIn • Email
