@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-🔹 React Native & React Frontend Developer focused on building scalable and high-performance applications
-🔹 Experienced in React Native (Expo & CLI) and modern React.js development
-🔹 Strong understanding of component-based architecture, state management, and clean code principles
+🔹 React Native & React Frontend Developer focused on building scalable and high-performance applications <br/>
+🔹 Experienced in React Native (Expo & CLI) and modern React.js development <br/>
+🔹 Strong understanding of component-based architecture, state management, and clean code principles <br/>
 🔹 Passionate about learning new technologies and continuously refining development skills
 
 ---
@@ -38,8 +38,8 @@
 🎓 Leadership & Academic Background
 
 🔹 Core Team Member – Techno Community, [SSASIT](https://ssasit.ac.in/) <br/>
-🔹 Volunteer – Google Developer Group (GDG) 
-🔹 Organized the MathBrain Competition at Vaividya 2K24, [SSASIT](https://ssasit.ac.in/)
+🔹 Volunteer – Google Developer Group (GDG)  <br/>
+🔹 Organized the MathBrain Competition at Vaividya 2K24, [SSASIT](https://ssasit.ac.in/) <br/>
 🔹 Bachelor of Engineering (B.E.) in Computer Engineering – [SSASIT](https://ssasit.ac.in/)
 
 
