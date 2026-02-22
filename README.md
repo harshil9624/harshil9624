@@ -17,7 +17,7 @@
 
 ---
 
-🔧 Tech Stack & Expertise
+## 🔧 Tech Stack & Expertise
 
 💻 Languages:
 • Javascript • TypeScript • Java 
