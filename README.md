@@ -1,28 +1,33 @@
-<h1 align="center">Harshil Vala</h1>
-<h3 align="center">Android Developer | Java • Kotlin • MVVM</h3>
+# Harshil Vala
+### Mobile Application Developer (Android & React Native)
 
 ---
 
-## ⚡ About Me
-Building high-performance Android applications with clean architecture and scalable code.
+## Professional Summary
+Detail-oriented Mobile Application Developer with hands-on experience in Android (Java & Kotlin) and React Native. Skilled in designing, developing, and maintaining high-performance mobile applications with a strong focus on scalability, clean architecture, and continuous learning of modern technologies.
 
 ---
 
-## 🧑‍💻 Tech
-🟢 Java  
-🟢 Kotlin  
-🟢 Android SDK  
-🟢 Retrofit  
-🟢 Firebase  
-🟢 Room  
-🟢 Git  
+## Technical Skills
+
+**Languages:** Java, Kotlin, JavaScript  
+**Mobile Development:** Android SDK, React Native  
+**Frameworks & Libraries:** Jetpack, Redux  
+**Architecture:** MVVM  
+**Networking:** Retrofit, REST API Integration  
+**Database:** Room, SQLite  
+**Web Basics:** HTML, CSS  
+**Tools:** Git, GitHub, Android Studio, VS Code, Postman  
 
 ---
 
-## 📈 GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+## Key Projects
+- Beach Safety Monitoring Application (INCOIS API Integration)
+- SMS-Based Emergency Safety App
+- User Authentication & Todo Management App (React Native)
 
 ---
 
-## 📩 Reach Me
-LinkedIn • Email
+## Contact
+LinkedIn: https://linkedin.com/in/YOUR_LINK  
+Email: yourmail@gmail.com
